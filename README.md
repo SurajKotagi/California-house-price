@@ -6,3 +6,7 @@
 2. [Heroku Account](https://heroku.com)
 3. [VS Code IDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The_Command-Line)
+
+'''
+conda activate "C:\Users\suraj\Desktop\CALIFORNIA HP\California-house-price\menv
+'''
