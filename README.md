@@ -9,7 +9,7 @@
 
 ### Screeshots of Model Working
 
-### !Currently not availible online because of charges in Heroku 🙂😸
+### !Currently not availible online because of charges in Heroku, Previously it was Free🙂😸
 
 ### Website hosted locally
 
